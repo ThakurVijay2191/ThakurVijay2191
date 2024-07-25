@@ -16,5 +16,5 @@
 6. Swift Package Manager
 7. MVVM Architecture
    
-![hero-lockup-swiftui-large_2x](https://github.com/user-attachments/assets/85255f37-2bf2-4e73-a0ac-e25b0f66ffdd)
+![Screenshot 2024-07-25 at 12 43 02 PM](https://github.com/user-attachments/assets/c87898a5-4b25-4ea0-83d2-b50ce4875706)
 
