@@ -1,4 +1,3 @@
-![Spaceman Walking Home 4K Live Wallpaper Xanh Share  (1)_000](https://github.com/user-attachments/assets/ce214877-2918-4e5d-8436-18cb2d5c9021)# Vijay Thakur
 ##  Developer
 ### 📱 iOS Developer | Passionate about Crafting Seamless Mobile Experiences 🚀
 ### With 1.5 years of experience in iOS development, I thrive on turning innovative ideas into user-friendly, high-performance mobile applications. My expertise lies in leveraging the latest technologies and design principles to create apps that resonate with users and exceed expectations.
