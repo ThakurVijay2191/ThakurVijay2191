@@ -1,5 +1,5 @@
 # Vijay Thakur
-##  Developer
+##  Software Engineer
 ### 📱 iOS Developer | Passionate about Crafting Seamless Mobile Experiences 🚀
 ### With 1.5 years of experience in iOS development, I thrive on turning innovative ideas into user-friendly, high-performance mobile applications. My expertise lies in leveraging the latest technologies and design principles to create apps that resonate with users and exceed expectations.
 
