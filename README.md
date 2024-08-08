@@ -7,15 +7,4 @@
 
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/b5708a04-b89b-4bde-9ee4-7e4f939f81a6)
 
-# Skills
-1. Swift
-2. SwiftUI
-3. UIKit
-4. XCode
-5. Cocoapods
-6. Swift Package Manager
-7. MVVM Architecture
-   
-![Screenshot 2024-07-25 at 12 43 02 PM](https://github.com/user-attachments/assets/c87898a5-4b25-4ea0-83d2-b50ce4875706)
-
-![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/54d25383-e83c-40e7-86d1-ca35d0adf74f)
+![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/user-attachments/assets/a3992558-3da9-4111-b0f2-c9763b0d00ea)
