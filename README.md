@@ -18,9 +18,10 @@ I am a passionate iOS Developer with 3+ years of experience building and scaling
 - C (basic understanding)
 - Dart
 
-### iOS Frameworks & Technologies  
+### Frameworks & Technologies  
 - UIKit  
-- SwiftUI  
+- SwiftUI
+- Flutter
 - Combine  
 - Core Data  
 - Core Animation  
