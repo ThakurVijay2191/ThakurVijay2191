@@ -1,10 +1,11 @@
 # Vijay Thakur  
-##  Software Engineer  
-### 📱 iOS Developer | Passionate about Crafting Seamless Mobile Experiences 🚀  
+## Software Engineer  
+### 📱 iOS & Flutter Developer | SwiftUI, UIKit, GetX | Building Scalable Mobile Apps 🚀  
 
-With 2.5 years of experience in iOS development, I thrive on turning innovative ideas into user-friendly, high-performance mobile applications. My expertise lies in leveraging the latest technologies and design principles to create apps that resonate with users and exceed expectations.
+I am a passionate iOS Developer with 3+ years of experience building and scaling mobile applications using UIKit, SwiftUI, and Flutter. I have developed and published multiple apps end-to-end, integrating modern features and ensuring smooth, high-performance user experiences.
 
-Whether it's building elegant UIs, optimizing app performance, or integrating complex features, I am committed to delivering top-notch solutions that make a difference. I thrive in collaborative environments, where I can contribute my skills in Swift, Objective-C, and various frameworks to drive project success.
+
+:rocket: I enjoy solving complex problems, designing scalable architectures, and delivering reliable mobile solutions. My focus is always on writing clean, maintainable code and staying updated with the latest Apple frameworks and cross-platform technologies.
 
 ---
 
@@ -12,9 +13,10 @@ Whether it's building elegant UIs, optimizing app performance, or integrating co
 
 ### Languages  
 - Swift  
-- Objective-C  
+- UIKit
 - SwiftUI  
 - C (basic understanding)
+- Dart
 
 ### iOS Frameworks & Technologies  
 - UIKit  
@@ -25,11 +27,13 @@ Whether it's building elegant UIs, optimizing app performance, or integrating co
 - AVFoundation  
 - MapKit  
 - CallKit  
-- CloudKit  
+- CloudKit
+- WidgetKit
 - UserNotifications  
 - StoreKit  
 - CoreLocation  
 - Push Notifications (APNs)
+- Mapbox
 
 ### Tools & Platforms  
 - Xcode  
@@ -38,17 +42,25 @@ Whether it's building elegant UIs, optimizing app performance, or integrating co
 - RESTful APIs & JSON  
 - GCD & OperationQueue  
 - CocoaPods / Swift Package Manager  
-- Git & GitHub  
-- Fastlane  
+- Git, GitHub/GitLab, Agile/Scrum practices, Jira
+- Fastlane
+- Xcode Cloud
+- GitHub Actions
+- Firebase Crashlytics
 - TestFlight  
 - Figma (for design collaboration)
+- App Store submission, provisioning profiles, certificates, release automation
 
 ### Architecture & Best Practices  
 - MVVM  
-- MVC  
+- MVC
+- VIPER
+- Clean Architecture
+- GetX in Flutter
+- Providers
 - Dependency Injection  
 - Protocol-Oriented Programming  
-- Unit Testing & UI Testing
+- Unit Testing, UI Testing, XCTest, Debugging & Performance Optimization
 
 ---
 
