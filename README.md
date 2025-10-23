@@ -2,7 +2,7 @@
 ## Software Engineer  
 ### 📱 iOS & Flutter Developer | SwiftUI, UIKit, GetX | Building Scalable Mobile Apps 🚀  
 
-I am a passionate iOS Developer with 3+ years of experience building and scaling mobile applications using UIKit, SwiftUI, and Flutter. I have developed and published multiple apps end-to-end, integrating modern features and ensuring smooth, high-performance user experiences.
+I am an iOS Developer with 3+ years of experience building and scaling mobile applications using UIKit, SwiftUI, and Flutter. I have developed and published multiple apps end-to-end, integrating modern features and ensuring smooth, high-performance user experiences.
 
 
 :rocket: I enjoy solving complex problems, designing scalable architectures, and delivering reliable mobile solutions. My focus is always on writing clean, maintainable code and staying updated with the latest Apple frameworks and cross-platform technologies.
